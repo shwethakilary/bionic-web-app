@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*.social-med{
+    background-color: darkblue;
+    color: white;
+    padding: 100px 300px ;
+    font-size: 20px;
+}*/
+.cc{
+    color: white;
+    font-size: 20px;
+}
+/*a{
+    color: white;
+    padding: 20px 0px;
+    font-size: 20px;
+}*/
+
+.main{
+    background-color:#f3e7e7;
+    padding-bottom: 100px;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h4{
+    font-size: 20px;
+}
+.fdbk a{
+    color: teal;
+    font-size: 30px;
+}
+.fdbk{
+    background-color: #c5c4c4;
+    max-width: 75%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-bottom: 35px;
+}
+#con{
+    background-color:#c5c4c4;
+    max-width: 75%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#con p{
+    font-size: 30px;
+    font-weight: bold;
+}
+#con h5{
+    font-size: 25px;
+    color: teal;
+}
+#mail{
+    background-color: #c5c4c4;
+    max-width: 75%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#mail p{
+    font-size: 30px;
+    font-weight: bold;
+}
+#mail a{
+    font-size: 25px;
+    color: teal;
+}
+#address{
+    background-color: #c5c4c4;
+    max-width: 75%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#address p{
+    font-size: 30px;
+    font-weight: bold;
+}
+#address h4{
+    font-size: 25px;
+    color: teal;
+}
+h1{
+            color:black ;
+           text-align: left;
+            font-size: 400%;
+            background-color: lightseagreen;
+          }
+        h2{
+            color: black;
+        }
+        header{
+            background-color: lightseagreen;
+      }
